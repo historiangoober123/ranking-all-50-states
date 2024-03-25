@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ranking all 50 states (based unbiased)</title>
+  <style>
+body {
+  background-color: rgb(190,203,246);
+  text-align: center;
+}
+
+.head {
+  background-color: red;
+  color: rgb(190,203,246);
+  font-size: 4rem;
+}
+
+.based {
+  font-size: 1rem;
+}
+
+.the-thing {
+  background-color: red;
+  color:white;
+  font-size: 2.6rem;
+}
+
+#lol {
+  background-color: red;
+  color: rgb(0,150,255);
+  font-size: 2.6rem;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+footer {
+  background-color: blue;
+  color: white;
+}
+  </style>
+  </head>
+  <body>
+    <header>
+    <h1 class="head">RANKING ALL 50 STATES</h1>
+    <h4 class="based">(based opinion)</h4>
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width=300 />
+    </header>
+    <section>
+    <h2 class=the-thing>Introduction</h2>
+    <p>Today I rank all 50 states and my opinion is very based! </p>
+    <img src="https://img.freepik.com/free-photo/portrait-satisfied-young-man-celebrating-success_171337-10186.jpg" width=300 />
+    <h2 id="lol">50. California</h2>
+    <p> California is on fire lmao and it is burning to the ground. Also the house below costs $13,242,876 dollars in California.</p>
+      <img src="https://cdn.shopify.com/s/files/1/2572/3764/products/10x10_Popup_B_White_3_2048x.jpg?v=1614699908" height=200 width=300 />
+    <h2 id="lol">49. Oklahoma</h2>
+    <p>Oklahoma is so goddamn cringe and there are dum dum monsters there. Who lives in Oklahoma? Oklahoma has the highest crime in the nation and poorest state and has the most fatherless population in the entire country.</p>
+    <img src="https://api.triviacreator.com/v1/imgs/quiz/cover-162948b8-7e7e-4a68-aa30-8b500b7dad6f.png" width=200 height=140 />
+    <h2 id="lol">48. Alabama</h2>
+    <p>NO ONE LIKES ALABAMA BECAUSE WEIRDOCH66 CAME FROM ALABAMA</p>
+    <img src="https://static.wikia.nocookie.net/fridaynightfunkin/images/5/5b/Boyfriend.gif/revision/latest/smart/width/250/height/250?cb=20220720171155" width=300 height=150 />
+    <h2 id="lol">47. South Dakota</h2>
+    <p>South Dakota is so boring because it is just flatland and North Dakota is more superior.</p>
+    <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+    <h2 id="lol"> 46. New York</h2>
+    <p> THEY ARE RUDE AS HELL, also rats are radioactive in new york</p>
+    <img src="https://i0.wp.com/focusforwardcc.com/wp-content/uploads/Angry-Man_rs.jpg" width=300 />
+    <h2 id="lol"> 45. Florida </h2>
+    <p> because it is hot as hell </p>
+    <img src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQ3j621nespBcjMbcCx6PTa8VDA1hGy11OcUfjoqSYR_-S3j3-aO5vymACxk073w1Isa8CxGBgP0p3NX-JLMvg" width=300 />
+    <h2 id="lol">44. Wyoming</h2>
+    <p> Wyoming? There is no way this place exists?</p>
+    <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+    <h2 id="lol">43. Michigan</h2>
+    <p>So many creepy monsters</p>
+    <img src="https://api.triviacreator.com/v1/imgs/quiz/cover-162948b8-7e7e-4a68-aa30-8b500b7dad6f.png" width=300 />
+    <h2 id="lol">42. Indiana</h2>
+    <p>they are so racist there dont go pls</p>
+    <img src="https://i0.wp.com/focusforwardcc.com/wp-content/uploads/Angry-Man_rs.jpg" width=300 />
+        <h2 id="lol">41. Arkansas</h2>
+    <p>they are so racist there dont go pls but still less racist than indiana</p>
+    <img src="https://i0.wp.com/focusforwardcc.com/wp-content/uploads/Angry-Man_rs.jpg" width=300 />
+    <h2 id="lol">40. Missouri</h2>
+    <p> some random state dont care</p>
+    <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+    <h2 id="lol"> 39.  Virginia </h2>
+    <p>BECAUSE THEY ARE NOT CHAD</p>
+    <img src="https://datepsychology.com/wp-content/uploads/2022/09/gigachad.jpg" width=300 />
+    <h2 id="lol">38. New Jersey</h2>
+    <p> Who lives in new jersey?</p>
+    <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+    <h2 id="lol">37. Nevada</h2>
+    <p>It's home to las vegas which is home to a lot of sins. And sins are bad :(</p>
+    <img src="https://4.bp.blogspot.com/-de5-WQaVlg4/UtTcDmeZwbI/AAAAAAAAK2Y/qPf0nTmuy4U/s1600/Casino+Royale+3.jpg" width=300 />
+    <h2 id="lol">36. Ohio</h2>
+    <p>Ohio is also home to many monsters but friendlier than Michigan's</p>
+    <img src="https://api.triviacreator.com/v1/imgs/quiz/cover-162948b8-7e7e-4a68-aa30-8b500b7dad6f.png" width=300 />
+    <h2 id="lol">35. Oregon</h2>
+    <p>Portland is california v2.0. Portland is also in oregon uhhh</p>
+    <img src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQ3j621nespBcjMbcCx6PTa8VDA1hGy11OcUfjoqSYR_-S3j3-aO5vymACxk073w1Isa8CxGBgP0p3NX-JLMvg" width=300 />
+      <h2 id="lol">34. Arizona</h2>
+      <p>Desert hell lol and boring lol</p>
+  <img src="https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg" width=300 />
+      <h2 id="lol">33. Delaware</h2>
+      <p>Who lives in Delaware?</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">32. Montana</h2>
+      <p>Nobody lives here and tall mountains are not good for farming</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg" alt="Mountain - Wikipedia" width=300 />
+      <h2 id="lol">31. Idaho</h2>
+      <p>Nobody lives here and tall mountains are not good for farming</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg" alt="Mountain - Wikipedia" width=300 />
+      <h2 id="lol">30. West Virginia </h2>
+      <p>Why is this place not even annexed by Virginia? Anyway they are virgins.</p>
+      <img src="https://datepsychology.com/wp-content/uploads/2022/09/gigachad.jpg" width=300 />
+      <h2 id="lol">29. Maryland</h2>
+      <p>Who lives in Maryland?</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">28. Hawaii</h2>
+      <p>It is so hot (dont take it out of context)</p>
+      <img src="http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQ3j621nespBcjMbcCx6PTa8VDA1hGy11OcUfjoqSYR_-S3j3-aO5vymACxk073w1Isa8CxGBgP0p3NX-JLMvg" width=300 />
+      <h2 id="lol">27. Colorado</h2>
+      <p>Other than denver it's just boring and mountains </p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg" alt="Mountain - Wikipedia" width=300 />
+      <h2 id="lol">26. Connecticut</h2>
+      <p>BORIIINNNNG</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">25. Rhode Island</h2>
+      <p>BORIIINNNNG</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">24. Vermont</h2>
+      <p> I don't like communists</p>
+      <img src="https://heartland.org/wp-content/uploads/2022/12/Communism_420.jpg" width=300 />
+      <h2 id="lol">23. Washington</h2>
+      <p> No one cares about this state, Seattle raises the state's ranks.</p>
+      <img src="https://a.cdn-hotels.com/gdcs/production54/d346/a7f50b1f-9730-4d1e-93d6-c3239b81f394.jpg" width=300 />
+      <h2 id="lol">22. Tennessee</h2>
+      <p> A good state to create a farming business and you'll get a lot of workers because 20% of the state lives in poverty.</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">21. Kentucky</h2>
+      <p> A good state to create a farming business and you'll get a lot of workers because 30% of the state lives in poverty.</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">20. Georgia</h2>
+      <p> Who lives in Georgia?</p>
+      <img src="https://cdn.britannica.com/17/4717-004-6F48198E/Flag-Republic-of-Georgia.jpg" width=300 />
+      <h2 id="lol">19. Mississippi</h2>
+      <p> A good state to create a farming business and you'll get a lot of workers because 40% of the state lives in poverty.</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">18. Maine</h2>
+      <p> Who lives in Maine?</p>
+      <img src="https://files.worldwildlife.org/wwfcmsprod/images/Polar_bear_on_ice_in_Svalbard_Norway_WW294883/hero_small/85px6g3dhv_Polar_bear_on_ice_in_Svalbard_Norway_WW294883.jpg" width=300 />
+      
+      <h2 id="lol">17. Louisiana</h2>
+      <p> i dont really care but french live there so there are a lot of baguettes</p>
+      <img src="https://th.bing.com/th/id/OIP.n2nbfTXuqW7pwZa_rGClWAHaE8?pid=ImgDet&rs=1" width=300 />
+      <h2 id="lol">16. New Hampshire</h2>
+      <p>seems cool because of nice western european building styles</p>
+      <img src="https://newengland.com/wp-content/uploads/GBGDPH.jpg" width=300 />
+      <h2 id="lol">15. Massachusetts</h2>
+      <p>seems cool because of nice western european building styles</p>
+      <img src="https://newengland.com/wp-content/uploads/GBGDPH.jpg" width=300 />
+      <h2 id="lol">14. North Carolina</h2>
+      <p>this is where glorious mr beast lives</p>
+      <img src="https://i.ytimg.com/vi/c9xJLR-ufNk/maxresdefault.jpg" width=300 />
+      <h2 id="lol">13. South Carolina</h2>
+      <p>this is where glorious mr o'beast lives</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/fskzbo92A7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <h2 id="lol">12. Illinois</h2>
+      <p>chicago the state</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">11. Pennsylvania</h2>
+      <p> mountains but better i bet you can farm on those (free money) </p>
+      <img src="https://media.istockphoto.com/photos/allegheny-mountains-in-autumn-at-lindy-point-overlook-picture-id642650500" width=300 />
+      <h2 id="lol">10. North Dakota</h2>
+      <p> boring but thanks to god the state is cold </p>
+      <img src="https://files.worldwildlife.org/wwfcmsprod/images/Polar_bear_on_ice_in_Svalbard_Norway_WW294883/hero_small/85px6g3dhv_Polar_bear_on_ice_in_Svalbard_Norway_WW294883.jpg" width=300 />
+      <h2 id="lol">9. Texas</h2>
+      <p> you can play call of duty in real life </p>
+      <img src="https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw2/home/reveal/new-era/new_era-mw2.jpg" width=300 />
+      <h2 id="lol">8. Kansas</h2>
+      <p> one of the farming states to exist </p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">7. Nebraska</h2>
+      <p> another one of the farming states to exist </p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">6. Iowa</h2>
+      <p> another another one of the farming states to exist + plus corn</p>
+      <img src="https://www.canr.msu.edu/contentAsset/image/25a972ec-e75d-4585-958b-8990c3d001b3/fileAsset/filter/Resize,Jpeg/resize_w/750/jpeg_q/80" width=300 />
+      <h2 id="lol">5. Alaska</h2>
+      <p> the state is amazing for a police officer due to rising crime rate and you can arrest a lot of polar bears!!! </p>
+      <img src="https://files.worldwildlife.org/wwfcmsprod/images/Polar_bear_on_ice_in_Svalbard_Norway_WW294883/hero_small/85px6g3dhv_Polar_bear_on_ice_in_Svalbard_Norway_WW294883.jpg" width=300 />
+      <h2 id="lol">4. Wisconsin</h2>
+      <p> a place to mine for cheese </p>
+      <img src="https://natashaskitchen.com/wp-content/uploads/2021/08/Grilled-Cheese-Sandwich-3-728x1092.jpg" width=300 />
+      <h2 id="lol">3. Mew Mexico</h2>
+      <p> the best place for <strong>extremely high</strong> paying businesses </p>
+      <img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/08/bryan-cranston.jpg" width=300 />
+      <h2 id="lol">2. Utah</h2>
+      <p> I honestly think this place is amazing. The best place for cowboy duelling. </p>
+      <img src="https://c8.alamy.com/comp/HBRAB7/cowboy-pistol-duel-at-texas-hollywoodfort-bravo-western-styled-theme-HBRAB7.jpg" width=300 />
+      <h2 id="lol">1. Minnesota</h2>
+      <p> one of the us states to ever exist tbh and this place deserves the award for being the one of the states to ever exist. </p>
+      <img src="https://cache.desktopnexus.com/thumbseg/1797/1797981-bigthumbnail.jpg" width=300 />
+      <h2 class="the-thing">The End</h2>
+      <p> Thank you for reading the based and educated review about the US states! </p>
+      <img src="https://img.freepik.com/free-photo/portrait-satisfied-young-man-celebrating-success_171337-10186.jpg" width=300 />
+    </section>
+    <footer>
+      <address>Thanks to <strong>my friends</strong> for helping me!</address>
+      <address>THIS IS CLEARLY <strong>not</strong> A JOKE! </address>
+    </footer>
+  </body>
+  </html>
